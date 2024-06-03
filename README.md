@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @thatoneguy2011
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning how to do anything 
+- 💞️ I’m looking to collaborate on making a game
+- 📫 How to reach me dont
+- 😄 Pronouns: sigma/male
+- ⚡ Fun fact: i am the cofounder of silly.inc
