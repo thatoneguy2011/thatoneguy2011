@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thatoneguy2011
+- 👋 Hi, I’m @thatoneguy
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning how to do anything 
 - 💞️ I’m looking to collaborate on making a game
